@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "126745522184",
+    "project_id": "tinyreel2",
+    "storage_bucket": "tinyreel2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126745522184:android:5b8fb0a7ded30a9e22a1bd",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1kswm3dtE7WFZauDaXmewotMn2k9OeD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126745522184:android:2d897cdad404334722a1bd",
+        "android_client_info": {
+          "package_name": "com.example.tinyreel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1kswm3dtE7WFZauDaXmewotMn2k9OeD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
